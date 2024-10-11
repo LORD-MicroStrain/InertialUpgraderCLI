@@ -1,4 +1,9 @@
 # Inertial Upgrader CLI
+This is a command-line interface for upgrading MicroStrain inertial devices.
+
+The Inertial Upgrader CLI supports all 5- and 7-series models, with the exception of MV5 and ML5 products. The latest firmware for each device can be found on the corresponding product page in the Downloads section: [MicroStrain Inertial Sensors](https://microstrain.com/inertial-sensors/all-sensors)
+
+If you have any questions or run into any issues, please let us know! [MicroStrain Support Portal](https://support.microstrain.com)
 
 ## Downloads
 **Windows**: [InertialUpdater_15.5.4_x64.exe](https://github.com/LORD-MicroStrain/InertialUpgraderCLI/releases/download/v15.5.4/InertialUpdater_15.5.4_x64.exe)
